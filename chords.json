@@ -1,0 +1,2380 @@
+{
+  "chords": [
+    {
+      "alt_name": ["C", "Cmaj", "Cmajor", "CM"],
+      "tones": ["C", "E", "G"],
+      "root_note": "C",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Cmaj7", "Cmajor7", "CM7"],
+      "tones": ["C", "E", "G", "B"],
+      "root_note": "C",
+      "priority": 2
+    },
+    {
+      "alt_name": ["C6", "Cmaj6", "Cmajor6", "CM6"],
+      "tones": ["C", "E", "G", "A"],
+      "root_note": "C",
+      "priority": 4
+    },
+    {
+      "alt_name": ["C6/9"],
+      "tones": ["C", "E", "G", "A", "D"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["C7", "Cdom7"],
+      "tones": ["C", "E", "G", "As"],
+      "root_note": "C",
+      "priority": 1
+    },
+    {
+      "alt_name": ["C9", "Cdom9"],
+      "tones": ["C", "E", "G", "As", "D"],
+      "root_note": "C",
+      "priority": 4
+    },
+    {
+      "alt_name": ["C11"],
+      "tones": ["C", "E", "G", "As", "D", "F"],
+      "root_note": "C",
+      "priority": 4
+    },
+    {
+      "alt_name": ["C13"],
+      "tones": ["C", "E", "G", "As", "D", "F", "A"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cmaj9"],
+      "tones": ["C", "E", "G", "B", "D"],
+      "root_note": "C",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Cm", "Cmin", "Cminor", "C-"],
+      "tones": ["C", "Ds", "G"],
+      "root_note": "C",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Cm7", "Cminor7", "C-7"],
+      "tones": ["C", "Ds", "G", "As"],
+      "root_note": "C",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Cm6", "Cminor6", "C-6"],
+      "tones": ["C", "Ds", "G", "A"],
+      "root_note": "C",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Cm6/9"],
+      "tones": ["C", "Ds", "G", "A", "D"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cm9"],
+      "tones": ["C", "Ds", "G", "As", "D"],
+      "root_note": "C",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Cm11"],
+      "tones": ["C", "Ds", "G", "As", "F"],
+      "root_note": "C",
+      "priority": 4
+    },
+    {
+      "alt_name": ["CmM7", "C Minor Major 7th"],
+      "tones": ["C", "Ds", "G", "B"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cdim"],
+      "tones": ["C", "Ds", "Fs"],
+      "root_note": "C",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Cdim7"],
+      "tones": ["C", "Ds", "Fs", "A"],
+      "root_note": "C",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Cm7b5", "C half-diminished"],
+      "tones": ["C", "Ds", "Fs", "As"],
+      "root_note": "C",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Caug"],
+      "tones": ["C", "E", "Gs"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Caug7"],
+      "tones": ["C", "E", "Gs", "As"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["C7b5", "C 7-5"],
+      "tones": ["C", "E", "Fs", "As"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["C7#5", "C7aug", "C 7+5"],
+      "tones": ["C", "E", "Gs", "As"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["C7sus", "C7sus4"],
+      "tones": ["C", "F", "G", "As"],
+      "root_note": "C",
+      "priority": 3
+    },
+    {
+      "alt_name": ["C7b9", "C 7-9"],
+      "tones": ["C", "E", "G", "As", "Cs"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["C7#9", "C 7+9"],
+      "tones": ["C", "E", "G", "As", "Ds"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["C7#11", "C 7+11"],
+      "tones": ["C", "E", "G", "As", "Fs"],
+      "root_note": "C",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cadd9"],
+      "tones": ["C", "E", "G", "D"],
+      "root_note": "C",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Cadd2"],
+      "tones": ["C", "D", "E", "G"],
+      "root_note": "C",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Cadd11"],
+      "tones": ["C", "E", "G", "F"],
+      "root_note": "C",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Cadd4"],
+      "tones": ["C", "E", "F", "G"],
+      "root_note": "C",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Csus4"],
+      "tones": ["C", "F", "G"],
+      "root_note": "C",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Csus2"],
+      "tones": ["C", "D", "G"],
+      "root_note": "C",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Cs", "Csmaj", "Csmajor", "CsM"],
+      "tones": ["Cs", "F", "Gs"],
+      "root_note": "Cs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Csmaj7", "Csmajor7", "CsM7"],
+      "tones": ["Cs", "F", "Gs", "C"],
+      "root_note": "Cs",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Cs6", "Csmaj6", "Csmajor6", "CsM6"],
+      "tones": ["Cs", "F", "Gs", "As"],
+      "root_note": "Cs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Cs6/9"],
+      "tones": ["Cs", "F", "Gs", "As", "Ds"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cs7", "Csdom7"],
+      "tones": ["Cs", "F", "Gs", "B"],
+      "root_note": "Cs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Cs9", "Csdom9"],
+      "tones": ["Cs", "F", "Gs", "B", "Ds"],
+      "root_note": "Cs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Cs11"],
+      "tones": ["Cs", "F", "Gs", "B", "Ds", "Fs"],
+      "root_note": "Cs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Cs13"],
+      "tones": ["Cs", "F", "Gs", "B", "Ds", "Fs", "As"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Csmaj9"],
+      "tones": ["Cs", "F", "Gs", "C", "Ds"],
+      "root_note": "Cs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Csm", "Csmin", "Csminor", "Cs-"],
+      "tones": ["Cs", "E", "Gs"],
+      "root_note": "Cs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Csm7", "Csminor7", "Cs-7"],
+      "tones": ["Cs", "E", "Gs", "B"],
+      "root_note": "Cs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Csm6", "Csminor6", "Cs-6"],
+      "tones": ["Cs", "E", "Gs", "As"],
+      "root_note": "Cs",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Csm6/9"],
+      "tones": ["Cs", "E", "Gs", "As", "Ds"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Csm9"],
+      "tones": ["Cs", "E", "Gs", "B", "Ds"],
+      "root_note": "Cs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Csm11"],
+      "tones": ["Cs", "E", "Gs", "B", "Fs"],
+      "root_note": "Cs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["CsmM7", "Cs Minor Major 7th"],
+      "tones": ["Cs", "E", "Gs", "C"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Csdim"],
+      "tones": ["Cs", "E", "G"],
+      "root_note": "Cs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Csdim7"],
+      "tones": ["Cs", "E", "G", "As"],
+      "root_note": "Cs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Csm7b5", "Cs half-diminished"],
+      "tones": ["Cs", "E", "G", "B"],
+      "root_note": "Cs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Csaug"],
+      "tones": ["Cs", "F", "A"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Csaug7"],
+      "tones": ["Cs", "F", "A", "B"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cs7b5", "Cs 7-5"],
+      "tones": ["Cs", "F", "G", "B"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cs7#5", "Cs7aug", "Cs 7+5"],
+      "tones": ["Cs", "F", "A", "B"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cs7sus", "Cs7sus4"],
+      "tones": ["Cs", "Fs", "Gs", "B"],
+      "root_note": "Cs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Cs7b9", "Cs 7-9"],
+      "tones": ["Cs", "F", "Gs", "B", "D"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cs7#9", "Cs 7+9"],
+      "tones": ["Cs", "F", "Gs", "B", "E"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Cs7#11", "Cs 7+11"],
+      "tones": ["Cs", "F", "Gs", "B", "G"],
+      "root_note": "Cs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Csadd9"],
+      "tones": ["Cs", "F", "Gs", "Ds"],
+      "root_note": "Cs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Csadd2"],
+      "tones": ["Cs", "Ds", "F", "Gs"],
+      "root_note": "Cs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Csadd11"],
+      "tones": ["Cs", "F", "Gs", "Fs"],
+      "root_note": "Cs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Csadd4"],
+      "tones": ["Cs", "F", "Fs", "Gs"],
+      "root_note": "Cs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Cssus4"],
+      "tones": ["Cs", "Fs", "Gs"],
+      "root_note": "Cs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Cssus2"],
+      "tones": ["Cs", "Ds", "Gs"],
+      "root_note": "Cs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["D", "Dmaj", "Dmajor", "DM"],
+      "tones": ["D", "Fs", "A"],
+      "root_note": "D",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Dmaj7", "Dmajor7", "DM7"],
+      "tones": ["D", "Fs", "A", "Cs"],
+      "root_note": "D",
+      "priority": 2
+    },
+    {
+      "alt_name": ["D6", "Dmaj6", "Dmajor6", "DM6"],
+      "tones": ["D", "Fs", "A", "B"],
+      "root_note": "D",
+      "priority": 4
+    },
+    {
+      "alt_name": ["D6/9"],
+      "tones": ["D", "Fs", "A", "B", "E"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["D7", "Ddom7"],
+      "tones": ["D", "Fs", "A", "C"],
+      "root_note": "D",
+      "priority": 1
+    },
+    {
+      "alt_name": ["D9", "Ddom9"],
+      "tones": ["D", "Fs", "A", "C", "E"],
+      "root_note": "D",
+      "priority": 4
+    },
+    {
+      "alt_name": ["D11"],
+      "tones": ["D", "Fs", "A", "C", "E", "G"],
+      "root_note": "D",
+      "priority": 4
+    },
+    {
+      "alt_name": ["D13"],
+      "tones": ["D", "Fs", "A", "C", "E", "G", "B"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dmaj9"],
+      "tones": ["D", "Fs", "A", "Cs", "E"],
+      "root_note": "D",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Dm", "Dmin", "Dminor", "D-"],
+      "tones": ["D", "F", "A"],
+      "root_note": "D",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Dm7", "Dminor7", "D-7"],
+      "tones": ["D", "F", "A", "C"],
+      "root_note": "D",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Dm6", "Dminor6", "D-6"],
+      "tones": ["D", "F", "A", "B"],
+      "root_note": "D",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Dm6/9"],
+      "tones": ["D", "F", "A", "B", "E"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dm9"],
+      "tones": ["D", "F", "A", "C", "E"],
+      "root_note": "D",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Dm11"],
+      "tones": ["D", "F", "A", "C", "G"],
+      "root_note": "D",
+      "priority": 4
+    },
+    {
+      "alt_name": ["DmM7", "D Minor Major 7th"],
+      "tones": ["D", "F", "A", "Cs"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Ddim"],
+      "tones": ["D", "F", "Gs"],
+      "root_note": "D",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Ddim7"],
+      "tones": ["D", "F", "Gs", "B"],
+      "root_note": "D",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Dm7b5", "D half-diminished"],
+      "tones": ["D", "F", "Gs", "C"],
+      "root_note": "D",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Daug"],
+      "tones": ["D", "Fs", "As"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Daug7"],
+      "tones": ["D", "Fs", "As", "C"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["D7b5", "D 7-5"],
+      "tones": ["D", "Fs", "Gs", "C"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["D7#5", "D7aug", "D 7+5"],
+      "tones": ["D", "Fs", "As", "C"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["D7sus", "D7sus4"],
+      "tones": ["D", "G", "A", "C"],
+      "root_note": "D",
+      "priority": 3
+    },
+    {
+      "alt_name": ["D7b9", "D 7-9"],
+      "tones": ["D", "Fs", "A", "C", "Ds"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["D7#9", "D 7+9"],
+      "tones": ["D", "Fs", "A", "C", "F"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["D7#11", "D 7+11"],
+      "tones": ["D", "Fs", "A", "C", "Gs"],
+      "root_note": "D",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dadd9"],
+      "tones": ["D", "Fs", "A", "E"],
+      "root_note": "D",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dadd2"],
+      "tones": ["D", "E", "Fs", "A"],
+      "root_note": "D",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dadd11"],
+      "tones": ["D", "Fs", "A", "G"],
+      "root_note": "D",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dadd4"],
+      "tones": ["D", "Fs", "G", "A"],
+      "root_note": "D",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dsus4"],
+      "tones": ["D", "G", "A"],
+      "root_note": "D",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Dsus2"],
+      "tones": ["D", "E", "A"],
+      "root_note": "D",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Ds", "Dsmaj", "Dsmajor", "DsM"],
+      "tones": ["Ds", "G", "As"],
+      "root_note": "Ds",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Dsmaj7", "Dsmajor7", "DsM7"],
+      "tones": ["Ds", "G", "As", "D"],
+      "root_note": "Ds",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Ds6", "Dsmaj6", "Dsmajor6", "DsM6"],
+      "tones": ["Ds", "G", "As", "C"],
+      "root_note": "Ds",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Ds6/9"],
+      "tones": ["Ds", "G", "As", "C", "F"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Ds7", "Dsdom7"],
+      "tones": ["Ds", "G", "As", "Cs"],
+      "root_note": "Ds",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Ds9", "Dsdom9"],
+      "tones": ["Ds", "G", "As", "Cs", "F"],
+      "root_note": "Ds",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Ds11"],
+      "tones": ["Ds", "G", "As", "Cs", "F", "Gs"],
+      "root_note": "Ds",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Ds13"],
+      "tones": ["Ds", "G", "As", "Cs", "F", "Gs", "C"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dsmaj9"],
+      "tones": ["Ds", "G", "As", "D", "F"],
+      "root_note": "Ds",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Dsm", "Dsmin", "Dsminor", "Ds-"],
+      "tones": ["Ds", "Fs", "As"],
+      "root_note": "Ds",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Dsm7", "Dsminor7", "Ds-7"],
+      "tones": ["Ds", "Fs", "As", "Cs"],
+      "root_note": "Ds",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Dsm6", "Dsminor6", "Ds-6"],
+      "tones": ["Ds", "Fs", "As", "C"],
+      "root_note": "Ds",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Dsm6/9"],
+      "tones": ["Ds", "Fs", "As", "C", "F"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dsm9"],
+      "tones": ["Ds", "Fs", "As", "Cs", "F"],
+      "root_note": "Ds",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Dsm11"],
+      "tones": ["Ds", "Fs", "As", "Cs", "Gs"],
+      "root_note": "Ds",
+      "priority": 4
+    },
+    {
+      "alt_name": ["DsmM7", "Ds Minor Major 7th"],
+      "tones": ["Ds", "Fs", "As", "D"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dsdim"],
+      "tones": ["Ds", "Fs", "A"],
+      "root_note": "Ds",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Dsdim7"],
+      "tones": ["Ds", "Fs", "A", "C"],
+      "root_note": "Ds",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Dsm7b5", "Ds half-diminished"],
+      "tones": ["Ds", "Fs", "A", "Cs"],
+      "root_note": "Ds",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dsaug"],
+      "tones": ["Ds", "G", "B"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dsaug7"],
+      "tones": ["Ds", "G", "B", "Cs"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Ds7b5", "Ds 7-5"],
+      "tones": ["Ds", "G", "A", "Cs"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Ds7#5", "Ds7aug", "Ds 7+5"],
+      "tones": ["Ds", "G", "B", "Cs"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Ds7sus", "Ds7sus4"],
+      "tones": ["Ds", "Gs", "As", "Cs"],
+      "root_note": "Ds",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Ds7b9", "Ds 7-9"],
+      "tones": ["Ds", "G", "As", "Cs", "E"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Ds7#9", "Ds 7+9"],
+      "tones": ["Ds", "G", "As", "Cs", "Fs"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Ds7#11", "Ds 7+11"],
+      "tones": ["Ds", "G", "As", "Cs", "A"],
+      "root_note": "Ds",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Dsadd9"],
+      "tones": ["Ds", "G", "As", "F"],
+      "root_note": "Ds",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dsadd2"],
+      "tones": ["Ds", "F", "G", "As"],
+      "root_note": "Ds",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dsadd11"],
+      "tones": ["Ds", "G", "As", "Gs"],
+      "root_note": "Ds",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dsadd4"],
+      "tones": ["Ds", "G", "Gs", "As"],
+      "root_note": "Ds",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Dssus4"],
+      "tones": ["Ds", "Gs", "As"],
+      "root_note": "Ds",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Dssus2"],
+      "tones": ["Ds", "F", "As"],
+      "root_note": "Ds",
+      "priority": 3
+    },
+    {
+      "alt_name": ["E", "Emaj", "Emajor", "EM"],
+      "tones": ["E", "Gs", "B"],
+      "root_note": "E",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Emaj7", "Emajor7", "EM7"],
+      "tones": ["E", "Gs", "B", "Ds"],
+      "root_note": "E",
+      "priority": 2
+    },
+    {
+      "alt_name": ["E6", "Emaj6", "Emajor6", "EM6"],
+      "tones": ["E", "Gs", "B", "Cs"],
+      "root_note": "E",
+      "priority": 4
+    },
+    {
+      "alt_name": ["E6/9"],
+      "tones": ["E", "Gs", "B", "Cs", "Fs"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["E7", "Edom7"],
+      "tones": ["E", "Gs", "B", "D"],
+      "root_note": "E",
+      "priority": 1
+    },
+    {
+      "alt_name": ["E9", "Edom9"],
+      "tones": ["E", "Gs", "B", "D", "Fs"],
+      "root_note": "E",
+      "priority": 4
+    },
+    {
+      "alt_name": ["E11"],
+      "tones": ["E", "Gs", "B", "D", "Fs", "A"],
+      "root_note": "E",
+      "priority": 4
+    },
+    {
+      "alt_name": ["E13"],
+      "tones": ["E", "Gs", "B", "D", "Fs", "A", "Cs"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Emaj9"],
+      "tones": ["E", "Gs", "B", "Ds", "Fs"],
+      "root_note": "E",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Em", "Emin", "Eminor", "E-"],
+      "tones": ["E", "G", "B"],
+      "root_note": "E",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Em7", "Eminor7", "E-7"],
+      "tones": ["E", "G", "B", "D"],
+      "root_note": "E",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Em6", "Eminor6", "E-6"],
+      "tones": ["E", "G", "B", "Cs"],
+      "root_note": "E",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Em6/9"],
+      "tones": ["E", "G", "B", "Cs", "Fs"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Em9"],
+      "tones": ["E", "G", "B", "D", "Fs"],
+      "root_note": "E",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Em11"],
+      "tones": ["E", "G", "B", "D", "A"],
+      "root_note": "E",
+      "priority": 4
+    },
+    {
+      "alt_name": ["EmM7", "E Minor Major 7th"],
+      "tones": ["E", "G", "B", "Ds"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Edim"],
+      "tones": ["E", "G", "As"],
+      "root_note": "E",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Edim7"],
+      "tones": ["E", "G", "As", "Cs"],
+      "root_note": "E",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Em7b5", "E half-diminished"],
+      "tones": ["E", "G", "As", "D"],
+      "root_note": "E",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Eaug"],
+      "tones": ["E", "Gs", "C"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Eaug7"],
+      "tones": ["E", "Gs", "C", "D"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["E7b5", "E 7-5"],
+      "tones": ["E", "Gs", "As", "D"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["E7#5", "E7aug", "E 7+5"],
+      "tones": ["E", "Gs", "C", "D"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["E7sus", "E7sus4"],
+      "tones": ["E", "A", "B", "D"],
+      "root_note": "E",
+      "priority": 3
+    },
+    {
+      "alt_name": ["E7b9", "E 7-9"],
+      "tones": ["E", "Gs", "B", "D", "F"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["E7#9", "E 7+9"],
+      "tones": ["E", "Gs", "B", "D", "G"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["E7#11", "E 7+11"],
+      "tones": ["E", "Gs", "B", "D", "As"],
+      "root_note": "E",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Eadd9"],
+      "tones": ["E", "Gs", "B", "Fs"],
+      "root_note": "E",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Eadd2"],
+      "tones": ["E", "Fs", "Gs", "B"],
+      "root_note": "E",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Eadd11"],
+      "tones": ["E", "Gs", "B", "A"],
+      "root_note": "E",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Eadd4"],
+      "tones": ["E", "Gs", "A", "B"],
+      "root_note": "E",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Esus4"],
+      "tones": ["E", "A", "B"],
+      "root_note": "E",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Esus2"],
+      "tones": ["E", "Fs", "B"],
+      "root_note": "E",
+      "priority": 3
+    },
+    {
+      "alt_name": ["F", "Fmaj", "Fmajor", "FM"],
+      "tones": ["F", "A", "C"],
+      "root_note": "F",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Fmaj7", "Fmajor7", "FM7"],
+      "tones": ["F", "A", "C", "E"],
+      "root_note": "F",
+      "priority": 2
+    },
+    {
+      "alt_name": ["F6", "Fmaj6", "Fmajor6", "FM6"],
+      "tones": ["F", "A", "C", "D"],
+      "root_note": "F",
+      "priority": 4
+    },
+    {
+      "alt_name": ["F6/9"],
+      "tones": ["F", "A", "C", "D", "G"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["F7", "Fdom7"],
+      "tones": ["F", "A", "C", "Ds"],
+      "root_note": "F",
+      "priority": 1
+    },
+    {
+      "alt_name": ["F9", "Fdom9"],
+      "tones": ["F", "A", "C", "Ds", "G"],
+      "root_note": "F",
+      "priority": 4
+    },
+    {
+      "alt_name": ["F11"],
+      "tones": ["F", "A", "C", "Ds", "G", "As"],
+      "root_note": "F",
+      "priority": 4
+    },
+    {
+      "alt_name": ["F13"],
+      "tones": ["F", "A", "C", "Ds", "G", "As", "D"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fmaj9"],
+      "tones": ["F", "A", "C", "E", "G"],
+      "root_note": "F",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Fm", "Fmin", "Fminor", "F-"],
+      "tones": ["F", "Gs", "C"],
+      "root_note": "F",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Fm7", "Fminor7", "F-7"],
+      "tones": ["F", "Gs", "C", "Ds"],
+      "root_note": "F",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Fm6", "Fminor6", "F-6"],
+      "tones": ["F", "Gs", "C", "D"],
+      "root_note": "F",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Fm6/9"],
+      "tones": ["F", "Gs", "C", "D", "G"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fm9"],
+      "tones": ["F", "Gs", "C", "Ds", "G"],
+      "root_note": "F",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fm11"],
+      "tones": ["F", "Gs", "C", "Ds", "As"],
+      "root_note": "F",
+      "priority": 4
+    },
+    {
+      "alt_name": ["FmM7", "F Minor Major 7th"],
+      "tones": ["F", "Gs", "C", "E"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fdim"],
+      "tones": ["F", "Gs", "B"],
+      "root_note": "F",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fdim7"],
+      "tones": ["F", "Gs", "B", "D"],
+      "root_note": "F",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fm7b5", "F half-diminished"],
+      "tones": ["F", "Gs", "B", "Ds"],
+      "root_note": "F",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Faug"],
+      "tones": ["F", "A", "Cs"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Faug7"],
+      "tones": ["F", "A", "Cs", "Ds"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["F7b5", "F 7-5"],
+      "tones": ["F", "A", "B", "Ds"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["F7#5", "F7aug", "F 7+5"],
+      "tones": ["F", "A", "Cs", "Ds"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["F7sus", "F7sus4"],
+      "tones": ["F", "As", "C", "Ds"],
+      "root_note": "F",
+      "priority": 3
+    },
+    {
+      "alt_name": ["F7b9", "F 7-9"],
+      "tones": ["F", "A", "C", "Ds", "Fs"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["F7#9", "F 7+9"],
+      "tones": ["F", "A", "C", "Ds", "Gs"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["F7#11", "F 7+11"],
+      "tones": ["F", "A", "C", "Ds", "B"],
+      "root_note": "F",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fadd9"],
+      "tones": ["F", "A", "C", "G"],
+      "root_note": "F",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fadd2"],
+      "tones": ["F", "G", "A", "C"],
+      "root_note": "F",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fadd11"],
+      "tones": ["F", "A", "C", "As"],
+      "root_note": "F",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fadd4"],
+      "tones": ["F", "A", "As", "C"],
+      "root_note": "F",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fsus4"],
+      "tones": ["F", "As", "C"],
+      "root_note": "F",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Fsus2"],
+      "tones": ["F", "G", "C"],
+      "root_note": "F",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Fs", "Fsmaj", "Fsmajor", "FsM"],
+      "tones": ["Fs", "As", "Cs"],
+      "root_note": "Fs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Fsmaj7", "Fsmajor7", "FsM7"],
+      "tones": ["Fs", "As", "Cs", "F"],
+      "root_note": "Fs",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Fs6", "Fsmaj6", "Fsmajor6", "FsM6"],
+      "tones": ["Fs", "As", "Cs", "Ds"],
+      "root_note": "Fs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fs6/9"],
+      "tones": ["Fs", "As", "Cs", "Ds", "Gs"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fs7", "Fsdom7"],
+      "tones": ["Fs", "As", "Cs", "E"],
+      "root_note": "Fs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Fs9", "Fsdom9"],
+      "tones": ["Fs", "As", "Cs", "E", "Gs"],
+      "root_note": "Fs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fs11"],
+      "tones": ["Fs", "As", "Cs", "E", "Gs", "B"],
+      "root_note": "Fs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fs13"],
+      "tones": ["Fs", "As", "Cs", "E", "Gs", "B", "Ds"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fsmaj9"],
+      "tones": ["Fs", "As", "Cs", "F", "Gs"],
+      "root_note": "Fs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Fsm", "Fsmin", "Fsminor", "Fs-"],
+      "tones": ["Fs", "A", "Cs"],
+      "root_note": "Fs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Fsm7", "Fsminor7", "Fs-7"],
+      "tones": ["Fs", "A", "Cs", "E"],
+      "root_note": "Fs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Fsm6", "Fsminor6", "Fs-6"],
+      "tones": ["Fs", "A", "Cs", "Ds"],
+      "root_note": "Fs",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Fsm6/9"],
+      "tones": ["Fs", "A", "Cs", "Ds", "Gs"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fsm9"],
+      "tones": ["Fs", "A", "Cs", "E", "Gs"],
+      "root_note": "Fs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fsm11"],
+      "tones": ["Fs", "A", "Cs", "E", "B"],
+      "root_note": "Fs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["FsmM7", "Fs Minor Major 7th"],
+      "tones": ["Fs", "A", "Cs", "F"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fsdim"],
+      "tones": ["Fs", "A", "C"],
+      "root_note": "Fs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fsdim7"],
+      "tones": ["Fs", "A", "C", "Ds"],
+      "root_note": "Fs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Fsm7b5", "Fs half-diminished"],
+      "tones": ["Fs", "A", "C", "E"],
+      "root_note": "Fs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fsaug"],
+      "tones": ["Fs", "As", "D"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fsaug7"],
+      "tones": ["Fs", "As", "D", "E"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fs7b5", "Fs 7-5"],
+      "tones": ["Fs", "As", "C", "E"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fs7#5", "Fs7aug", "Fs 7+5"],
+      "tones": ["Fs", "As", "D", "E"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fs7sus", "Fs7sus4"],
+      "tones": ["Fs", "B", "Cs", "E"],
+      "root_note": "Fs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Fs7b9", "Fs 7-9"],
+      "tones": ["Fs", "As", "Cs", "E", "G"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fs7#9", "Fs 7+9"],
+      "tones": ["Fs", "As", "Cs", "E", "A"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fs7#11", "Fs 7+11"],
+      "tones": ["Fs", "As", "Cs", "E", "C"],
+      "root_note": "Fs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Fsadd9"],
+      "tones": ["Fs", "As", "Cs", "Gs"],
+      "root_note": "Fs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fsadd2"],
+      "tones": ["Fs", "Gs", "As", "Cs"],
+      "root_note": "Fs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fsadd11"],
+      "tones": ["Fs", "As", "Cs", "B"],
+      "root_note": "Fs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fsadd4"],
+      "tones": ["Fs", "As", "B", "Cs"],
+      "root_note": "Fs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Fssus4"],
+      "tones": ["Fs", "B", "Cs"],
+      "root_note": "Fs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Fssus2"],
+      "tones": ["Fs", "Gs", "Cs"],
+      "root_note": "Fs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["G", "Gmaj", "Gmajor", "GM"],
+      "tones": ["G", "B", "D"],
+      "root_note": "G",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Gmaj7", "Gmajor7", "GM7"],
+      "tones": ["G", "B", "D", "Fs"],
+      "root_note": "G",
+      "priority": 2
+    },
+    {
+      "alt_name": ["G6", "Gmaj6", "Gmajor6", "GM6"],
+      "tones": ["G", "B", "D", "E"],
+      "root_note": "G",
+      "priority": 4
+    },
+    {
+      "alt_name": ["G6/9"],
+      "tones": ["G", "B", "D", "E", "A"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["G7", "Gdom7"],
+      "tones": ["G", "B", "D", "F"],
+      "root_note": "G",
+      "priority": 1
+    },
+    {
+      "alt_name": ["G9", "Gdom9"],
+      "tones": ["G", "B", "D", "F", "A"],
+      "root_note": "G",
+      "priority": 4
+    },
+    {
+      "alt_name": ["G11"],
+      "tones": ["G", "B", "D", "F", "A", "C"],
+      "root_note": "G",
+      "priority": 4
+    },
+    {
+      "alt_name": ["G13"],
+      "tones": ["G", "B", "D", "F", "A", "C", "E"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gmaj9"],
+      "tones": ["G", "B", "D", "Fs", "A"],
+      "root_note": "G",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Gm", "Gmin", "Gminor", "G-"],
+      "tones": ["G", "As", "D"],
+      "root_note": "G",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Gm7", "Gminor7", "G-7"],
+      "tones": ["G", "As", "D", "F"],
+      "root_note": "G",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Gm6", "Gminor6", "G-6"],
+      "tones": ["G", "As", "D", "E"],
+      "root_note": "G",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Gm6/9"],
+      "tones": ["G", "As", "D", "E", "A"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gm9"],
+      "tones": ["G", "As", "D", "F", "A"],
+      "root_note": "G",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gm11"],
+      "tones": ["G", "As", "D", "F", "C"],
+      "root_note": "G",
+      "priority": 4
+    },
+    {
+      "alt_name": ["GmM7", "G Minor Major 7th"],
+      "tones": ["G", "As", "D", "Fs"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gdim"],
+      "tones": ["G", "As", "Cs"],
+      "root_note": "G",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gdim7"],
+      "tones": ["G", "As", "Cs", "E"],
+      "root_note": "G",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gm7b5", "G half-diminished"],
+      "tones": ["G", "As", "Cs", "F"],
+      "root_note": "G",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gaug"],
+      "tones": ["G", "B", "Ds"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gaug7"],
+      "tones": ["G", "B", "Ds", "F"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["G7b5", "G 7-5"],
+      "tones": ["G", "B", "Cs", "F"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["G7#5", "G7aug", "G 7+5"],
+      "tones": ["G", "B", "Ds", "F"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["G7sus", "G7sus4"],
+      "tones": ["G", "C", "D", "F"],
+      "root_note": "G",
+      "priority": 3
+    },
+    {
+      "alt_name": ["G7b9", "G 7-9"],
+      "tones": ["G", "B", "D", "F", "Gs"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["G7#9", "G 7+9"],
+      "tones": ["G", "B", "D", "F", "As"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["G7#11", "G 7+11"],
+      "tones": ["G", "B", "D", "F", "Cs"],
+      "root_note": "G",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gadd9"],
+      "tones": ["G", "B", "D", "A"],
+      "root_note": "G",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gadd2"],
+      "tones": ["G", "A", "B", "D"],
+      "root_note": "G",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gadd11"],
+      "tones": ["G", "B", "D", "C"],
+      "root_note": "G",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gadd4"],
+      "tones": ["G", "B", "C", "D"],
+      "root_note": "G",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gsus4"],
+      "tones": ["G", "C", "D"],
+      "root_note": "G",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Gsus2"],
+      "tones": ["G", "A", "D"],
+      "root_note": "G",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Gs", "Gsmaj", "Gsmajor", "GsM"],
+      "tones": ["Gs", "C", "Ds"],
+      "root_note": "Gs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Gsmaj7", "Gsmajor7", "GsM7"],
+      "tones": ["Gs", "C", "Ds", "G"],
+      "root_note": "Gs",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Gs6", "Gsmaj6", "Gsmajor6", "GsM6"],
+      "tones": ["Gs", "C", "Ds", "F"],
+      "root_note": "Gs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gs6/9"],
+      "tones": ["Gs", "C", "Ds", "F", "As"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gs7", "Gsdom7"],
+      "tones": ["Gs", "C", "Ds", "Fs"],
+      "root_note": "Gs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Gs9", "Gsdom9"],
+      "tones": ["Gs", "C", "Ds", "Fs", "As"],
+      "root_note": "Gs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gs11"],
+      "tones": ["Gs", "C", "Ds", "Fs", "As", "Cs"],
+      "root_note": "Gs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gs13"],
+      "tones": ["Gs", "C", "Ds", "Fs", "As", "Cs", "F"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gsmaj9"],
+      "tones": ["Gs", "C", "Ds", "G", "As"],
+      "root_note": "Gs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Gsm", "Gsmin", "Gsminor", "Gs-"],
+      "tones": ["Gs", "B", "Ds"],
+      "root_note": "Gs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Gsm7", "Gsminor7", "Gs-7"],
+      "tones": ["Gs", "B", "Ds", "Fs"],
+      "root_note": "Gs",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Gsm6", "Gsminor6", "Gs-6"],
+      "tones": ["Gs", "B", "Ds", "F"],
+      "root_note": "Gs",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Gsm6/9"],
+      "tones": ["Gs", "B", "Ds", "F", "As"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gsm9"],
+      "tones": ["Gs", "B", "Ds", "Fs", "As"],
+      "root_note": "Gs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gsm11"],
+      "tones": ["Gs", "B", "Ds", "Fs", "Cs"],
+      "root_note": "Gs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["GsmM7", "Gs Minor Major 7th"],
+      "tones": ["Gs", "B", "Ds", "G"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gsdim"],
+      "tones": ["Gs", "B", "D"],
+      "root_note": "Gs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gsdim7"],
+      "tones": ["Gs", "B", "D", "F"],
+      "root_note": "Gs",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Gsm7b5", "Gs half-diminished"],
+      "tones": ["Gs", "B", "D", "Fs"],
+      "root_note": "Gs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gsaug"],
+      "tones": ["Gs", "C", "E"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gsaug7"],
+      "tones": ["Gs", "C", "E", "Fs"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gs7b5", "Gs 7-5"],
+      "tones": ["Gs", "C", "D", "Fs"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gs7#5", "Gs7aug", "Gs 7+5"],
+      "tones": ["Gs", "C", "E", "Fs"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gs7sus", "Gs7sus4"],
+      "tones": ["Gs", "Cs", "Ds", "Fs"],
+      "root_note": "Gs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Gs7b9", "Gs 7-9"],
+      "tones": ["Gs", "C", "Ds", "Fs", "A"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gs7#9", "Gs 7+9"],
+      "tones": ["Gs", "C", "Ds", "Fs", "B"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gs7#11", "Gs 7+11"],
+      "tones": ["Gs", "C", "Ds", "Fs", "D"],
+      "root_note": "Gs",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Gsadd9"],
+      "tones": ["Gs", "C", "Ds", "As"],
+      "root_note": "Gs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gsadd2"],
+      "tones": ["Gs", "As", "C", "Ds"],
+      "root_note": "Gs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gsadd11"],
+      "tones": ["Gs", "C", "Ds", "Cs"],
+      "root_note": "Gs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gsadd4"],
+      "tones": ["Gs", "C", "Cs", "Ds"],
+      "root_note": "Gs",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Gssus4"],
+      "tones": ["Gs", "Cs", "Ds"],
+      "root_note": "Gs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Gssus2"],
+      "tones": ["Gs", "As", "Ds"],
+      "root_note": "Gs",
+      "priority": 3
+    },
+    {
+      "alt_name": ["A", "Amaj", "Amajor", "AM"],
+      "tones": ["A", "Cs", "E"],
+      "root_note": "A",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Amaj7", "Amajor7", "AM7"],
+      "tones": ["A", "Cs", "E", "Gs"],
+      "root_note": "A",
+      "priority": 2
+    },
+    {
+      "alt_name": ["A6", "Amaj6", "Amajor6", "AM6"],
+      "tones": ["A", "Cs", "E", "Fs"],
+      "root_note": "A",
+      "priority": 4
+    },
+    {
+      "alt_name": ["A6/9"],
+      "tones": ["A", "Cs", "E", "Fs", "B"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["A7", "Adom7"],
+      "tones": ["A", "Cs", "E", "G"],
+      "root_note": "A",
+      "priority": 1
+    },
+    {
+      "alt_name": ["A9", "Adom9"],
+      "tones": ["A", "Cs", "E", "G", "B"],
+      "root_note": "A",
+      "priority": 4
+    },
+    {
+      "alt_name": ["A11"],
+      "tones": ["A", "Cs", "E", "G", "B", "D"],
+      "root_note": "A",
+      "priority": 4
+    },
+    {
+      "alt_name": ["A13"],
+      "tones": ["A", "Cs", "E", "G", "B", "D", "Fs"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Amaj9"],
+      "tones": ["A", "Cs", "E", "Gs", "B"],
+      "root_note": "A",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Am", "Amin", "Aminor", "A-"],
+      "tones": ["A", "C", "E"],
+      "root_note": "A",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Am7", "Aminor7", "A-7"],
+      "tones": ["A", "C", "E", "G"],
+      "root_note": "A",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Am6", "Aminor6", "A-6"],
+      "tones": ["A", "C", "E", "Fs"],
+      "root_note": "A",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Am6/9"],
+      "tones": ["A", "C", "E", "Fs", "B"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Am9"],
+      "tones": ["A", "C", "E", "G", "B"],
+      "root_note": "A",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Am11"],
+      "tones": ["A", "C", "E", "G", "D"],
+      "root_note": "A",
+      "priority": 4
+    },
+    {
+      "alt_name": ["AmM7", "A Minor Major 7th"],
+      "tones": ["A", "C", "E", "Gs"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Adim"],
+      "tones": ["A", "C", "Ds"],
+      "root_note": "A",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Adim7"],
+      "tones": ["A", "C", "Ds", "Fs"],
+      "root_note": "A",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Am7b5", "A half-diminished"],
+      "tones": ["A", "C", "Ds", "G"],
+      "root_note": "A",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Aaug"],
+      "tones": ["A", "Cs", "F"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Aaug7"],
+      "tones": ["A", "Cs", "F", "G"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["A7b5", "A 7-5"],
+      "tones": ["A", "Cs", "Ds", "G"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["A7#5", "A7aug", "A 7+5"],
+      "tones": ["A", "Cs", "F", "G"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["A7sus", "A7sus4"],
+      "tones": ["A", "D", "E", "G"],
+      "root_note": "A",
+      "priority": 3
+    },
+    {
+      "alt_name": ["A7b9", "A 7-9"],
+      "tones": ["A", "Cs", "E", "G", "As"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["A7#9", "A 7+9"],
+      "tones": ["A", "Cs", "E", "G", "C"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["A7#11", "A 7+11"],
+      "tones": ["A", "Cs", "E", "G", "Ds"],
+      "root_note": "A",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Aadd9"],
+      "tones": ["A", "Cs", "E", "B"],
+      "root_note": "A",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Aadd2"],
+      "tones": ["A", "B", "Cs", "E"],
+      "root_note": "A",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Aadd11"],
+      "tones": ["A", "Cs", "E", "D"],
+      "root_note": "A",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Aadd4"],
+      "tones": ["A", "Cs", "D", "E"],
+      "root_note": "A",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Asus4"],
+      "tones": ["A", "D", "E"],
+      "root_note": "A",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Asus2"],
+      "tones": ["A", "B", "E"],
+      "root_note": "A",
+      "priority": 3
+    },
+    {
+      "alt_name": ["As", "Asmaj", "Asmajor", "AsM"],
+      "tones": ["As", "D", "F"],
+      "root_note": "As",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Asmaj7", "Asmajor7", "AsM7"],
+      "tones": ["As", "D", "F", "A"],
+      "root_note": "As",
+      "priority": 2
+    },
+    {
+      "alt_name": ["As6", "Asmaj6", "Asmajor6", "AsM6"],
+      "tones": ["As", "D", "F", "G"],
+      "root_note": "As",
+      "priority": 4
+    },
+    {
+      "alt_name": ["As6/9"],
+      "tones": ["As", "D", "F", "G", "C"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["As7", "Asdom7"],
+      "tones": ["As", "D", "F", "Gs"],
+      "root_note": "As",
+      "priority": 1
+    },
+    {
+      "alt_name": ["As9", "Asdom9"],
+      "tones": ["As", "D", "F", "Gs", "C"],
+      "root_note": "As",
+      "priority": 4
+    },
+    {
+      "alt_name": ["As11"],
+      "tones": ["As", "D", "F", "Gs", "C", "Ds"],
+      "root_note": "As",
+      "priority": 4
+    },
+    {
+      "alt_name": ["As13"],
+      "tones": ["As", "D", "F", "Gs", "C", "Ds", "G"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Asmaj9"],
+      "tones": ["As", "D", "F", "A", "C"],
+      "root_note": "As",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Asm", "Asmin", "Asminor", "As-"],
+      "tones": ["As", "Cs", "F"],
+      "root_note": "As",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Asm7", "Asminor7", "As-7"],
+      "tones": ["As", "Cs", "F", "Gs"],
+      "root_note": "As",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Asm6", "Asminor6", "As-6"],
+      "tones": ["As", "Cs", "F", "G"],
+      "root_note": "As",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Asm6/9"],
+      "tones": ["As", "Cs", "F", "G", "C"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Asm9"],
+      "tones": ["As", "Cs", "F", "Gs", "C"],
+      "root_note": "As",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Asm11"],
+      "tones": ["As", "Cs", "F", "Gs", "Ds"],
+      "root_note": "As",
+      "priority": 4
+    },
+    {
+      "alt_name": ["AsmM7", "As Minor Major 7th"],
+      "tones": ["As", "Cs", "F", "A"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Asdim"],
+      "tones": ["As", "Cs", "E"],
+      "root_note": "As",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Asdim7"],
+      "tones": ["As", "Cs", "E", "G"],
+      "root_note": "As",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Asm7b5", "As half-diminished"],
+      "tones": ["As", "Cs", "E", "Gs"],
+      "root_note": "As",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Asaug"],
+      "tones": ["As", "D", "Fs"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Asaug7"],
+      "tones": ["As", "D", "Fs", "Gs"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["As7b5", "As 7-5"],
+      "tones": ["As", "D", "E", "Gs"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["As7#5", "As7aug", "As 7+5"],
+      "tones": ["As", "D", "Fs", "Gs"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["As7sus", "As7sus4"],
+      "tones": ["As", "Ds", "F", "Gs"],
+      "root_note": "As",
+      "priority": 3
+    },
+    {
+      "alt_name": ["As7b9", "As 7-9"],
+      "tones": ["As", "D", "F", "Gs", "B"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["As7#9", "As 7+9"],
+      "tones": ["As", "D", "F", "Gs", "Cs"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["As7#11", "As 7+11"],
+      "tones": ["As", "D", "F", "Gs", "E"],
+      "root_note": "As",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Asadd9"],
+      "tones": ["As", "D", "F", "C"],
+      "root_note": "As",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Asadd2"],
+      "tones": ["As", "C", "D", "F"],
+      "root_note": "As",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Asadd11"],
+      "tones": ["As", "D", "F", "Ds"],
+      "root_note": "As",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Asadd4"],
+      "tones": ["As", "D", "Ds", "F"],
+      "root_note": "As",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Assus4"],
+      "tones": ["As", "Ds", "F"],
+      "root_note": "As",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Assus2"],
+      "tones": ["As", "C", "F"],
+      "root_note": "As",
+      "priority": 3
+    },
+    {
+      "alt_name": ["B", "Bmaj", "Bmajor", "BM"],
+      "tones": ["B", "Ds", "Fs"],
+      "root_note": "B",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Bmaj7", "Bmajor7", "BM7"],
+      "tones": ["B", "Ds", "Fs", "As"],
+      "root_note": "B",
+      "priority": 2
+    },
+    {
+      "alt_name": ["B6", "Bmaj6", "Bmajor6", "BM6"],
+      "tones": ["B", "Ds", "Fs", "Gs"],
+      "root_note": "B",
+      "priority": 4
+    },
+    {
+      "alt_name": ["B6/9"],
+      "tones": ["B", "Ds", "Fs", "Gs", "Cs"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["B7", "Bdom7"],
+      "tones": ["B", "Ds", "Fs", "A"],
+      "root_note": "B",
+      "priority": 1
+    },
+    {
+      "alt_name": ["B9", "Bdom9"],
+      "tones": ["B", "Ds", "Fs", "A", "Cs"],
+      "root_note": "B",
+      "priority": 4
+    },
+    {
+      "alt_name": ["B11"],
+      "tones": ["B", "Ds", "Fs", "A", "Cs", "E"],
+      "root_note": "B",
+      "priority": 4
+    },
+    {
+      "alt_name": ["B13"],
+      "tones": ["B", "Ds", "Fs", "A", "Cs", "E", "Gs"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Bmaj9"],
+      "tones": ["B", "Ds", "Fs", "As", "Cs"],
+      "root_note": "B",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Bm", "Bmin", "Bminor", "B-"],
+      "tones": ["B", "D", "Fs"],
+      "root_note": "B",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Bm7", "Bminor7", "B-7"],
+      "tones": ["B", "D", "Fs", "A"],
+      "root_note": "B",
+      "priority": 1
+    },
+    {
+      "alt_name": ["Bm6", "Bminor6", "B-6"],
+      "tones": ["B", "D", "Fs", "Gs"],
+      "root_note": "B",
+      "priority": 2
+    },
+    {
+      "alt_name": ["Bm6/9"],
+      "tones": ["B", "D", "Fs", "Gs", "Cs"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Bm9"],
+      "tones": ["B", "D", "Fs", "A", "Cs"],
+      "root_note": "B",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Bm11"],
+      "tones": ["B", "D", "Fs", "A", "E"],
+      "root_note": "B",
+      "priority": 4
+    },
+    {
+      "alt_name": ["BmM7", "B Minor Major 7th"],
+      "tones": ["B", "D", "Fs", "As"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Bdim"],
+      "tones": ["B", "D", "F"],
+      "root_note": "B",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Bdim7"],
+      "tones": ["B", "D", "F", "Gs"],
+      "root_note": "B",
+      "priority": 4
+    },
+    {
+      "alt_name": ["Bm7b5", "B half-diminished"],
+      "tones": ["B", "D", "F", "A"],
+      "root_note": "B",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Baug"],
+      "tones": ["B", "Ds", "G"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Baug7"],
+      "tones": ["B", "Ds", "G", "A"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["B7b5", "B 7-5"],
+      "tones": ["B", "Ds", "F", "A"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["B7#5", "B7aug", "B 7+5"],
+      "tones": ["B", "Ds", "G", "A"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["B7sus", "B7sus4"],
+      "tones": ["B", "E", "Fs", "A"],
+      "root_note": "B",
+      "priority": 3
+    },
+    {
+      "alt_name": ["B7b9", "B 7-9"],
+      "tones": ["B", "Ds", "Fs", "A", "C"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["B7#9", "B 7+9"],
+      "tones": ["B", "Ds", "Fs", "A", "D"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["B7#11", "B 7+11"],
+      "tones": ["B", "Ds", "Fs", "A", "F"],
+      "root_note": "B",
+      "priority": 5
+    },
+    {
+      "alt_name": ["Badd9"],
+      "tones": ["B", "Ds", "Fs", "Cs"],
+      "root_note": "B",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Badd2"],
+      "tones": ["B", "Cs", "Ds", "Fs"],
+      "root_note": "B",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Badd11"],
+      "tones": ["B", "Ds", "Fs", "E"],
+      "root_note": "B",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Badd4"],
+      "tones": ["B", "Ds", "E", "Fs"],
+      "root_note": "B",
+      "priority": 6
+    },
+    {
+      "alt_name": ["Bsus4"],
+      "tones": ["B", "E", "Fs"],
+      "root_note": "B",
+      "priority": 3
+    },
+    {
+      "alt_name": ["Bsus2"],
+      "tones": ["B", "Cs", "Fs"],
+      "root_note": "B",
+      "priority": 3
+    }
+  ]
+}

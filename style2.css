@@ -1,0 +1,31 @@
+.column {
+    float: left;
+    width: 45%;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #2a96bd;
+    padding: 15px;
+    height: 250px;
+}
+
+h2 {
+    color:  #7dd4ee;
+}
+
+h3 {
+    color:  #7dd4ee;
+}
+  
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.otherName {
+    display:table;
+    float:right;
+    text-align: right;
+    color: #7dd4ee78;
+}

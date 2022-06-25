@@ -1,0 +1,162 @@
+/*
+Color pallete:
+accent #bd7629
+bg #425970
+main text #ffab52
+side text #70400d (not very well readable)
+text/details #2a96bd
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+p,h1,h2,h3,h4,a {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #16324F;
+}
+
+header, footer {
+    text-align: center;
+}
+
+.header > h1 {
+    color: transparent;
+    font-size: 3em;
+    text-shadow: 0 0 0 #fe7400;
+}
+
+.footer > p {
+    color: transparent;
+    text-shadow: 0 0 0 greenyellow;
+}
+
+.main {
+    padding-left: 300px;
+    padding-right: 50px;
+    display: block;
+}
+
+.main > p {
+    color: rgb(162, 162, 238);
+}
+
+.not-selectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+/*
+    SIDENAV
+*/
+.sidenav {
+    height: 100%; 
+    width: 250px; 
+    position: fixed;
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color: #111; 
+    overflow-x: hidden; 
+    padding-top: 60px; 
+}
+
+.sidenav_inner p {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+  
+.sidenav_inner p:hover {
+    color: #fe7400;
+    font-size: 30px;
+}
+
+.sidenav input[type=text] {
+    font-size: 25px;
+    background-color: gray;
+    border: none;    
+    display:block;
+    margin: 10px;
+    max-width: 225px;
+    text-align: center;
+    
+}
+
+/*
+    SIDENAV SWITCH
+*/
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 45px;
+    height: 25.5px;
+    margin-right: 12.5px;
+    float:right
+}
+
+.switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 19.5px;
+    width: 19.5px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked + .slider {
+    background-color: #2196F3;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(19.5px);
+    -ms-transform: translateX(19.5px);
+    transform: translateX(19.5px);
+}
+
+#p_switch {
+    padding-left: 10px;
+    margin-top: 1.5px;
+    padding-bottom: 0px;
+    text-decoration: none;
+    font-size: 17px;
+    vertical-align: bottom;
+    display: inline-block;
+    color: #818181;
+    transition: 0.3s;
+}
