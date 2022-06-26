@@ -8,7 +8,7 @@ $.get("chords.json", function( data ) {
 
 function checkInput(input){
     if($("#rev_finder").prop("checked")){
-        input.value = input.value.replaceAll("b","♭").toUpperCase().replaceAll("#", "♯").replaceAll("X", "♯").replaceAll(/([^C,D,E,F,G,A,B, ,♯,♭])+/g, "");
+        $("#search").val(input.val().replaceAll("b","♭").toUpperCase().replaceAll("#", "♯").replaceAll("X", "♯").replaceAll(/([^C,D,E,F,G,A,B, ,♯,♭])+/g, ""));
     }
     //console.log(input.value);
 }
@@ -166,5 +166,8 @@ function searchChordBox() {
 }
 
 $("#rev_finder").change(function(){
-    searchChordBox();
+    if($("#search").val() != ""){
+        checkInput($("#search"))
+        searchChordBox();
+    }
   }); 
